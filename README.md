@@ -4,10 +4,10 @@
 Graph/Network optimization over contagion with submodular functions. We provide an introductory notebook to the problem, and a class for optimization with an example for a facebook social network, with a SAR contagion model
 
 ### Report Folder
-Find the presentation of this project and theoretical introduction to network optimization
+Final report summarizing the project.
 
-### References
-Scientific papers helping understanding the project
+### Referencesunderstanding
+Scientific documentation for the project
 
 ### network_optimizer.py
 Class of optimizer which takes in input a graph, and the parameter of the contagion. You must precise the submodular function into the method $greedy_submodular(self, fun=None, cost_fun=None, budget=0.12, r=1, lazy=False)$
