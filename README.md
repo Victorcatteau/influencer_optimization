@@ -1,12 +1,12 @@
 # influencer_optimization
 
 ###### Authors : V.Catteau, M.Cordier
-Graph/Network optimization over contagion with submodular functions. We provide an introductory notebook to the problem, and a class for optimization with an example for a facebook social network, with a SAR contagion model
+Our goal in this project is to find optimal influencers on a social network. Influence of a node is represented by a SAR stochastic diffusion model, as defined in the virology litterature. We provide an introductory notebook to the problem, and a class for optimization with an example for a facebook and a youtube socials networks.
 
 ### Report Folder
 Final report summarizing the project.
 
-### Referencesunderstanding
+### References
 Scientific documentation for the project
 
 ### network_optimizer.py
