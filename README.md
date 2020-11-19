@@ -1,8 +1,7 @@
 # influencer_optimization
 
-# OPTI-network-submodular
 ###### Authors : V.Catteau, M.Cordier
-Graph/Network optimization over contagion with submodular functions. We provide an introduction notebook to the problem, and a class for optimization with an example with facebook network contagion.
+Graph/Network optimization over contagion with submodular functions. We provide an introductory notebook to the problem, and a class for optimization with an example for a facebook social network, with a SAR contagion model
 
 ### Report Folder
 Find the presentation of this project and theoretical introduction to network optimization
